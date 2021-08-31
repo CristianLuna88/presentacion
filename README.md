@@ -4,7 +4,7 @@
 
 Soy Cristian Luna estoy cursando la  carrera  de Tecnico universitario en informatica.
 
-![foto](cristian.png)
+![foto](cristian.jpg)
 
 Gustos personales:
 *Cine
